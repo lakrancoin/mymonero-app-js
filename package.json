@@ -122,7 +122,7 @@
     "node": "12.4.0"
   },
   "dependencies": {
-    "async": "3.1.0",
+    "async": "3.2.2",
     "electron-context-menu": "0.15.1",
     "electron-log": "3.0.9",
     "electron-updater": "4.2.0",
